@@ -1,7 +1,7 @@
 .cabecalho {
   display: flex;
-  justify-content: space-between;
   flex-direction: row-reverse;
+  justify-content: space-between;
   font-size: 20px;
   color: #fff;
   padding: 15px;
