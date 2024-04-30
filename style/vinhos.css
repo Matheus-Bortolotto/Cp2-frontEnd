@@ -45,3 +45,37 @@
   padding-bottom: 0px;
   text-align: center;
 }
+
+.infos {
+  background-color: #e5e5e5;
+  font-family: "Georgia", serif;
+  font-size:large;
+  
+}
+
+
+
+h1,
+h2 {
+  color: #000000;
+  text-align: center;
+}
+
+
+
+.assunto {
+  margin-bottom: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 10px;
+  background-color: #fff;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.assunto:hover {
+  background-color: #e5e5e5;
+
+  
+}
